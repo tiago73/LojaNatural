@@ -1,4 +1,5 @@
 ﻿using LojaNatural.Shered.identity;
+using Microsoft.Build.Framework;
 using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
