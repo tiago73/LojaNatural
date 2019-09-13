@@ -1,0 +1,6 @@
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural.Infra\bin\Debug\LojaNatural.Infra.dll
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural.Infra\bin\Debug\LojaNatural.Infra.pdb
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural.Infra\obj\Debug\LojaNatural.Infra.csprojAssemblyReference.cache
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural.Infra\obj\Debug\LojaNatural.Infra.csproj.CoreCompileInputs.cache
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural.Infra\obj\Debug\LojaNatural.Infra.dll
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural.Infra\obj\Debug\LojaNatural.Infra.pdb

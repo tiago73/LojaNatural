@@ -1,0 +1,9 @@
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural.Shered\bin\Debug\netstandard2.0\LojaNatural.Shered.deps.json
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural.Shered\bin\Debug\netstandard2.0\LojaNatural.Shered.dll
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural.Shered\bin\Debug\netstandard2.0\LojaNatural.Shered.pdb
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural.Shered\obj\Debug\netstandard2.0\LojaNatural.Shered.csprojAssemblyReference.cache
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural.Shered\obj\Debug\netstandard2.0\LojaNatural.Shered.csproj.CoreCompileInputs.cache
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural.Shered\obj\Debug\netstandard2.0\LojaNatural.Shered.AssemblyInfoInputs.cache
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural.Shered\obj\Debug\netstandard2.0\LojaNatural.Shered.AssemblyInfo.cs
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural.Shered\obj\Debug\netstandard2.0\LojaNatural.Shered.dll
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural.Shered\obj\Debug\netstandard2.0\LojaNatural.Shered.pdb
