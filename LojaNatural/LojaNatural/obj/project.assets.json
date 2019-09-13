@@ -12595,11 +12595,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tiago 73\\source\\repos\\LojaNatural\\LojaNatural\\LojaNatural.csproj",
+      "projectUniqueName": "C:\\Users\\tiago 73\\Source\\Repos\\LojaNatural\\LojaNatural\\LojaNatural\\LojaNatural.csproj",
       "projectName": "LojaNatural",
-      "projectPath": "C:\\Users\\tiago 73\\source\\repos\\LojaNatural\\LojaNatural\\LojaNatural.csproj",
+      "projectPath": "C:\\Users\\tiago 73\\Source\\Repos\\LojaNatural\\LojaNatural\\LojaNatural\\LojaNatural.csproj",
       "packagesPath": "C:\\Users\\tiago 73\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tiago 73\\source\\repos\\LojaNatural\\LojaNatural\\obj\\",
+      "outputPath": "C:\\Users\\tiago 73\\Source\\Repos\\LojaNatural\\LojaNatural\\LojaNatural\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -12620,14 +12620,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\tiago 73\\source\\repos\\LojaNatural\\LojaNatural.Dominio\\LojaNatural.Dominio.csproj": {
-              "projectPath": "C:\\Users\\tiago 73\\source\\repos\\LojaNatural\\LojaNatural.Dominio\\LojaNatural.Dominio.csproj"
+            "C:\\Users\\tiago 73\\Source\\Repos\\LojaNatural\\LojaNatural\\LojaNatural.Dominio\\LojaNatural.Dominio.csproj": {
+              "projectPath": "C:\\Users\\tiago 73\\Source\\Repos\\LojaNatural\\LojaNatural\\LojaNatural.Dominio\\LojaNatural.Dominio.csproj"
             },
-            "C:\\Users\\tiago 73\\source\\repos\\LojaNatural\\LojaNatural.Infra\\LojaNatural.Infra.csproj": {
-              "projectPath": "C:\\Users\\tiago 73\\source\\repos\\LojaNatural\\LojaNatural.Infra\\LojaNatural.Infra.csproj"
+            "C:\\Users\\tiago 73\\Source\\Repos\\LojaNatural\\LojaNatural\\LojaNatural.Infra\\LojaNatural.Infra.csproj": {
+              "projectPath": "C:\\Users\\tiago 73\\Source\\Repos\\LojaNatural\\LojaNatural\\LojaNatural.Infra\\LojaNatural.Infra.csproj"
             },
-            "C:\\Users\\tiago 73\\source\\repos\\LojaNatural\\LojaNatural.Shered\\LojaNatural.Shered.csproj": {
-              "projectPath": "C:\\Users\\tiago 73\\source\\repos\\LojaNatural\\LojaNatural.Shered\\LojaNatural.Shered.csproj"
+            "C:\\Users\\tiago 73\\Source\\Repos\\LojaNatural\\LojaNatural\\LojaNatural.Shered\\LojaNatural.Shered.csproj": {
+              "projectPath": "C:\\Users\\tiago 73\\Source\\Repos\\LojaNatural\\LojaNatural\\LojaNatural.Shered\\LojaNatural.Shered.csproj"
             }
           }
         }

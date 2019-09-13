@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiago 73\\source\\repos\\LojaNatural\\LojaNatural.Shered\\LojaNatural.Shered.csproj": {}
+    "C:\\Users\\tiago 73\\Source\\Repos\\LojaNatural\\LojaNatural\\LojaNatural.Shered\\LojaNatural.Shered.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiago 73\\source\\repos\\LojaNatural\\LojaNatural.Shered\\LojaNatural.Shered.csproj": {
+    "C:\\Users\\tiago 73\\Source\\Repos\\LojaNatural\\LojaNatural\\LojaNatural.Shered\\LojaNatural.Shered.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiago 73\\source\\repos\\LojaNatural\\LojaNatural.Shered\\LojaNatural.Shered.csproj",
+        "projectUniqueName": "C:\\Users\\tiago 73\\Source\\Repos\\LojaNatural\\LojaNatural\\LojaNatural.Shered\\LojaNatural.Shered.csproj",
         "projectName": "LojaNatural.Shered",
-        "projectPath": "C:\\Users\\tiago 73\\source\\repos\\LojaNatural\\LojaNatural.Shered\\LojaNatural.Shered.csproj",
+        "projectPath": "C:\\Users\\tiago 73\\Source\\Repos\\LojaNatural\\LojaNatural\\LojaNatural.Shered\\LojaNatural.Shered.csproj",
         "packagesPath": "C:\\Users\\tiago 73\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiago 73\\source\\repos\\LojaNatural\\LojaNatural.Shered\\obj\\",
+        "outputPath": "C:\\Users\\tiago 73\\Source\\Repos\\LojaNatural\\LojaNatural\\LojaNatural.Shered\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
