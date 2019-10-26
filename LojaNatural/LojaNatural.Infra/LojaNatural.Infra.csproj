@@ -42,9 +42,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositorio\Repositorio.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Repositorio\" />
+    <ProjectReference Include="..\LojaNatural.Dominio\LojaNatural.Dominio.csproj">
+      <Project>{185E3B3C-EBEE-4920-B4F3-A7FFFBD35FEE}</Project>
+      <Name>LojaNatural.Dominio</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

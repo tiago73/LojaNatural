@@ -24,9 +24,7 @@
             <th>
                 @Html.DisplayNameFor(model => model.Preco)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ID)
-            </th>
+
             <th></th>
         </tr>
     </thead>
@@ -34,7 +32,7 @@
 @foreach (var item in Model) {
         <tr>
             <td>
-                @Html.DisplayFor(modelitem => item.Nome)             
+                @Html.DisplayFor(modelitem => item.Nome)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Descricao)
@@ -47,8 +45,8 @@
             </td>
 
             <td>
-                <a asp-action="" class="btn btn-outline-primary " ><span class="fa fa-edit"></span></a>
-                <a asp-action=""class="btn btn-outline-info"><span class="fa fa-book"></span></a>
+                <a asp-action="" class="btn btn-outline-primary "><span class="fa fa-edit"></span></a>
+                <a asp-action="" class="btn btn-outline-info"><span class="fa fa-book"></span></a>
                 <a asp-action="" class="btn btn-outline-danger"><span class="fa fa-eraser"></span></a>
             </td>
         </tr>; }

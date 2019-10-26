@@ -9,3 +9,12 @@ C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural.Dominio\obj\Debug\LojaNat
 C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural.Dominio\obj\Debug\LojaNatural.Dominio.csproj.CopyComplete
 C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural.Dominio\obj\Debug\LojaNatural.Dominio.dll
 C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural.Dominio\obj\Debug\LojaNatural.Dominio.pdb
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural\LojaNatural.Dominio\bin\Debug\LojaNatural.Dominio.dll
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural\LojaNatural.Dominio\bin\Debug\LojaNatural.Dominio.pdb
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural\LojaNatural.Dominio\bin\Debug\LojaNatural.Shered.dll
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural\LojaNatural.Dominio\bin\Debug\LojaNatural.Shered.pdb
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural\LojaNatural.Dominio\obj\Debug\LojaNatural.Dominio.csprojAssemblyReference.cache
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural\LojaNatural.Dominio\obj\Debug\LojaNatural.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural\LojaNatural.Dominio\obj\Debug\LojaNatural.Dominio.csproj.CopyComplete
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural\LojaNatural.Dominio\obj\Debug\LojaNatural.Dominio.dll
+C:\Users\tiago 73\source\repos\LojaNatural\LojaNatural\LojaNatural.Dominio\obj\Debug\LojaNatural.Dominio.pdb

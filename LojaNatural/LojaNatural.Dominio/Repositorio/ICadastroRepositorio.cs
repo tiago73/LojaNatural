@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LojaNatural.Dominio.Repositorio
 {
-    interface ICadastroRepositorio
+    public interface ICadastroRepositorio
     {
         void Inserir(Produto produto);
     }

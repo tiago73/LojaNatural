@@ -529,6 +529,9 @@
         }
       },
       "LojaNatural.Infra/1.0.0": {
+        "dependencies": {
+          "LojaNatural.Dominio": "1.0.0"
+        },
         "runtime": {
           "LojaNatural.Infra.dll": {}
         },
